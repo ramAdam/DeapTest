@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/z3ro/.virtualenvs/ai/bin/python",
+    "python.formatting.provider": "black"
+}
