@@ -1,4 +1,4 @@
 # DeapTest
-Proof of concept of generating automated tests
+Proof of concept for generating automated test with genetic algorithms
 
  
